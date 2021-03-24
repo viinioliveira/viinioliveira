@@ -25,8 +25,7 @@
 
 </br>
 <h3> 🤝🏻 Entre em contato </h3>
-<a href="www.linkedin.com/in/viniciusoliveira08" target="_blank">Linkedin</a>
-<img src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1616629795~hmac=38ac228d97c946ff2eec295037bf9911" width="25" height="25"/><a href="viniciusmeireles@gmail.com" target="_blank">Gmail</a>
+<a href="www.linkedin.com/in/viniciusoliveira08" target="_blank">Linkedin</a><img src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1616629795~hmac=38ac228d97c946ff2eec295037bf9911" width="25" height="25"/><a href="viniciusmeireles@gmail.com" target="_blank">Gmail</a>
 
 
 
