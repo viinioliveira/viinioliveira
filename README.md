@@ -13,11 +13,9 @@
 
 <br>
 <h3>🛠 Conhecimentos </h3>
-<br>
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
 - 💻 &nbsp; Python | Java | SQL
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> | CSS | JavaScript | Bootstrap | ReactJS
 
 <h3>🛠 Aprendendo </h3>
 
@@ -27,21 +25,9 @@
 <hr>
 
 
-
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
-
-<br/>
-
-<br/>
-
-@@ -64,7 +55,7 @@
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
 <h3> 🤝🏻 Entre em contato </h3>
+
+
 
 <br>
 
