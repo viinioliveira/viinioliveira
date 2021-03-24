@@ -25,4 +25,7 @@
 
 </br>
 <h3> 🤝🏻 Entre em contato </h3>
-<a href="www.linkedin.com/in/viniciusoliveira08"><img src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1616629795~hmac=38ac228d97c946ff2eec295037bf9911" heith="50" width="50"/></a>
+<p>
+<a href="www.linkedin.com/in/viniciusoliveira08">Linkedin</a>
+  <a href="viniciusmeireles08@gmail.com">Gmail</a>
+</p>
