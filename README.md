@@ -26,6 +26,6 @@
 </br>
 <h3> 🤝🏻 Entre em contato </h3>
 <p>
-  [I'm an inline-style link](www.linkedin.com/in/viniciusoliveira08)
-  [I'm an inline-style link](viniciusmeireles08@gmail.com)
+  (www.linkedin.com/in/viniciusoliveira08) |
+  (viniciusmeireles08@gmail.com)
 </p>
