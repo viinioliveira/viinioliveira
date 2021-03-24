@@ -5,9 +5,7 @@
 <h3> 👨🏻•💻 Sobre mim </h3>
 
 
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🤔 &nbsp; Explorador de novas tecnologias e desenvolvimento de soluções de software.
+- 🤔 &nbsp; Explorador de novas tecnologias, curioso e iniciante no mundo da progamação.
 - 🎓 &nbsp; Estudante do 3º periodo em análise e desenvolvimento de sistemas.
 - ❤️ &nbsp; apaixonado por front-end e design.
 
@@ -19,9 +17,7 @@
 
 <h3>🛠 Aprendendo </h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-- 🔧 &nbsp; Google Cloud | Angular | Vue.JS |
-
+- 🔧 &nbsp; <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white/>" |
 <hr>
 
 
