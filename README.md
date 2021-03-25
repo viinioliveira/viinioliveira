@@ -23,7 +23,6 @@
 <hr>
 
 
-</br>
 <h3> 🤝🏻 Contact </h3>
 <p>
   (www.linkedin.com/in/viniciusoliveira08)
