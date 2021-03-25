@@ -20,6 +20,7 @@
 
 - 📚 &nbsp; <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <hr>
+<br>
 
 <div align="center">
    <h3 align="center"> 🤝🏻 Contact </h3>
@@ -30,7 +31,7 @@
     <img src="https://www.flaticon.com/svg/vstatic/svg/355/355992.svg?token=exp=1616685849~hmac=0343e9de77a466e98367fdbfd9046a16" heigth="25" width="25" />
   </a>&nbsp;
    <a href="https://t.me/viinioliveira">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/355/355992.svg?token=exp=1616685849~hmac=0343e9de77a466e98367fdbfd9046a16" heigth="25" width="25" />
+    <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1616686709~hmac=29fdfc54fc8aea071003ae06e5013dae" heigth="25" width="25" />
   </a>                                                                                                                                                  
                                                                                                                                                       
   </div>                                                                                                                                               
