@@ -23,7 +23,7 @@
 
 
 <h3> 🤝🏻 Contact </h3>
-&nbsp;<a href="https://www.linkedin.com/in/viniciusoliveira08">
+&nbsp; &nbsp;<a href="https://www.linkedin.com/in/viniciusoliveira08">
   <img align="left" alt="vinicius Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://https://github.com/viinioliveira">
