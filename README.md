@@ -23,8 +23,7 @@
 
 
 <h3> 🤝🏻 Contact </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/viniciusoliveira08/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vinicius Oliveira-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:viniciusmeireles08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/viniciusoliveira08/)](https://www.linkedin.com/in/viniciusoliveira08/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@rvividha)](https://medium.com/@rvividha)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmeireles08@gmai.com)](mailto:viniciusmeireles08@gmail.com)
+
