@@ -22,7 +22,7 @@
 <hr>
 
 
-<p align="center"
+<p align="center">
 <h3> 🤝🏻 Contact </h3>
 <a href="https://www.linkedin.com/in/viniciusoliveira08/">
   <img src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1616685612~hmac=6ae4d2cfeafc73fcccdfc86a9be1ba80" heigth="25" width="25"/>
