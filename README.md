@@ -1,7 +1,7 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><h2> I'm Vinicius</h2>
 <br>
 
-<img src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif" width="400" heigth="300" align="right"/>
+&nbsp;<img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="400" heigth="300" align="right"/>
 
 <h3> 👨🏻•💻 About me </h3>
 
