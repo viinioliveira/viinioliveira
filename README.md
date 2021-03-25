@@ -20,8 +20,9 @@
 
 - 📚 &nbsp; <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <hr>
-<p></p>
 
+
+<p align="center"
 <h3> 🤝🏻 Contact </h3>
 <a href="https://www.linkedin.com/in/viniciusoliveira08/">
   <img src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1616685612~hmac=6ae4d2cfeafc73fcccdfc86a9be1ba80" heigth="25" width="25"/>
@@ -29,4 +30,5 @@
   <a href="mailto:viniciusmeireles08@gmail.com">
   <img src="https://www.flaticon.com/svg/vstatic/svg/355/355992.svg?token=exp=1616685849~hmac=0343e9de77a466e98367fdbfd9046a16" heigth="25" width="25"/>
   </a>
+  </p>
 
