@@ -1,6 +1,8 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><h2> I'm Vinicius</h2>
 <br>
 
+<img src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif" width="400" heigth="300" align="right"/>
+
 <h3> 👨🏻•💻 About me </h3>
 
 
@@ -20,7 +22,6 @@
 
 - 📚 &nbsp; <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <hr>
-<br>
 
 <div align="center">
    <h3 align="center"> 🤝🏻 Contact </h3>
