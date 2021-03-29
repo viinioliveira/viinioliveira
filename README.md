@@ -6,7 +6,7 @@
 <h3> 👨🏻•💻 About me </h3>
 &nbsp;<img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="200" heigth="150" align="right"/>
 
-- 🤔 &nbsp; New technology explorer, curious and new to the world of programming.
+- 🤔 &nbsp; explorer of new technologies, curious and new in the world of programming
 - 🎓 &nbsp; 3rd period student in systems analysis and development.
 - ❤️ &nbsp; Love it front-end and design.
 
