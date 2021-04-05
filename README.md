@@ -4,12 +4,12 @@
 
 
 <h3> 👨🏻•💻 About me </h3>
-&nbsp;<img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/source.gif" width="200" heigth="150" align="right"/>
+
 
 - 🤔 &nbsp; explorer of new technologies, curious and new in the world of programming
 - 🎓 &nbsp; 3rd period student in systems analysis and development.
 - ❤️ &nbsp; Love it front-end and design.
-
+&nbsp;<img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/source.gif" width="200" heigth="150" align="right"/>
 </br>
 <h3>🛠 Skills </h3>
 
