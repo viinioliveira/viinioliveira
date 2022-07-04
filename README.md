@@ -1,4 +1,4 @@
-### Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><h2> I'm Vinicius</h2>
+### Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"><h2> I'm Vinicius</h2>
 <br>
 
 
