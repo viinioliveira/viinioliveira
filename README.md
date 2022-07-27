@@ -7,7 +7,6 @@
 
 
 - 🤔 &nbsp; explorer of new technologies, curious and new in the world of programming
-- 🎓 &nbsp; 3rd period student in systems analysis and development.
 - ❤️ &nbsp; Love it front-end and design.
 </br>
 <h3>🛠 Skills </h3>
